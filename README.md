@@ -1,27 +1,76 @@
 # Hi 👋, I'm Aditya Pawar
 
-### Software Engineer Intern @ Ioncure Tech | Data Science Student | Full Stack Developer
+### Full Stack & Systems Engineer | Developer Tooling, Cloud & Offline-First Systems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapawar112&label=Profile views&color=0e75b6&style=flat" alt="adityapawar112" /> </p>
-
-- 🔭 I'm currently working on **BlueIn (an AI-driven marine data platform) and HealersHarbor (a conference ticketing system).**
-
-- 🌱 I'm currently learning **System Design, Ngnix, Sui Move**
-
-- 📫 How to reach me **contact.aditya.pawar@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://adityapawar112.github.io/Aditya_Portfolio/](https://adityapawar112.github.io/Aditya_Portfolio/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1oGLSpKojd0M9gJdx1GaRMJfqi9RK94PT/view?usp=sharing](https://drive.google.com/file/d/1oGLSpKojd0M9gJdx1GaRMJfqi9RK94PT/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/adityapawar112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="adityapawar112" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adityapawar112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityapawar112" height="30" width="40" /></a>
-<a href="https://instagram.com/eliocaptures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eliocaptures" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=adityapawar112&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+- 🔭 **Currently building**:
+  - **[SynapseState](https://github.com/adityapawar112/SynapseState)**: An incident-safety and flag governance layer for Kubernetes on OpenFeature (Ed25519 break-glass leases, GitOps reconciliation, and compiler-verified dead flag retirement).
+  - **[ScaleERP](https://github.com/adityapawar112/ScaleERP-Desktop)**: An offline-first desktop billing and inventory platform with embedded SQLite (WAL mode) and RSA-2048 cryptographic licensing.
+  - **HealersHarbor**: Unified conference symposium platform and payment core ($50k+ processed, PCI-DSS compliant RBAC).
+- 🌱 **Deepening expertise in**: Kubernetes orchestration (k3s, Helm), GitOps reconciliation, Terraform IaC, Prometheus/Grafana SRE observability, and automated CI/CD release pipelines.
+- 📄 **Resume**: **[View Resume](https://drive.google.com/file/d/1FUNXmA1O8GVfLJPOQnl_7lKeoMaarp54/view?usp=sharing)**
+- 🌐 **Portfolio**: **[adityapawar112.github.io/Aditya_Portfolio](https://adityapawar112.github.io/Aditya_Portfolio/)**
+- 📫 **Reach me**: **[contact.aditya.pawar@gmail.com](mailto:contact.aditya.pawar@gmail.com)**
 
+---
 
+### 🛠️ Featured Systems & Projects
+
+| Project | Core Stack | Architecture Highlights |
+| :--- | :--- | :--- |
+| **[SynapseState](https://github.com/adityapawar112/SynapseState)** | TypeScript, Node.js, PostgreSQL, Docker, k3s, OpenFeature | Vendor-neutral incident safety for feature flags in Kubernetes. Features Ed25519 signed break-glass overrides, automatic TTL rollback, GitOps PR promotion, and AST-driven flag retirement (`ts-morph`). |
+| **[ScaleERP](https://github.com/adityapawar112/ScaleERP-Desktop)** · [Web](https://scale-erp.vercel.app/) | Electron, React 19, SQLite (WAL/FTS5), Next.js 15, Supabase | Offline-first commercial counter billing for low-connectivity trading depots. Sub-second invoicing, 28-table normalized schema, RSA-2048 asymmetric license enforcement, and cloud tamper telemetry. |
+| **[HealersHarbor](https://healersharbor.com/)** | React, Node.js, Express, Razorpay, PayPal, PostgreSQL | Conference symposium engine and payment gateway core processing $50k+ in multi-currency transactions with 99.98% reliability and PCI-DSS compliant encrypted storage. |
+
+---
+
+### 💻 Technologies & Tooling
+
+#### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,postgres,sqlite" alt="Languages" />
+</p>
+
+#### Frontend & Desktop
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind,bootstrap,vite" alt="Frontend & Desktop" />
+</p>
+
+#### Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,sqlite,mysql,redis" alt="Backend & Storage" />
+</p>
+
+#### Cloud, DevOps & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,git,nginx,linux" alt="DevOps & Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapawar112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditya's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapawar112&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/adityapawar112" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="28" width="36" />
+  </a>
+  <a href="https://linkedin.com/in/adityapawar112" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" />
+  </a>
+  <a href="mailto:contact.aditya.pawar@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="28" width="36" />
+  </a>
+</p>
