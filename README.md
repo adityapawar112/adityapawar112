@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://aditya112-portfolio.vercel.app/" target="_blank">
+    <img src="./assets/Aditya%20Pawar.png" alt="Aditya Pawar - Fullstack Developer" width="100%" />
+  </a>
+</p>
+
 # Hi 👋, I'm Aditya Pawar
 
 ### Full Stack & Systems Engineer | Developer Tooling, Cloud & Offline-First Systems
@@ -12,7 +18,7 @@
   - **HealersHarbor**: Unified conference symposium platform and payment core ($50k+ processed, PCI-DSS compliant RBAC).
 - 🌱 **Deepening expertise in**: Kubernetes orchestration (k3s, Helm), GitOps reconciliation, Terraform IaC, Prometheus/Grafana SRE observability, and automated CI/CD release pipelines.
 - 📄 **Resume**: **[View Resume](https://drive.google.com/file/d/1FUNXmA1O8GVfLJPOQnl_7lKeoMaarp54/view?usp=sharing)**
-- 🌐 **Portfolio**: **[adityapawar112.github.io/Aditya_Portfolio](https://adityapawar112.github.io/Aditya_Portfolio/)**
+- 🌐 **Portfolio**: **[aditya112-portfolio.vercel.app](https://aditya112-portfolio.vercel.app/)**
 - 📫 **Reach me**: **[contact.aditya.pawar@gmail.com](mailto:contact.aditya.pawar@gmail.com)**
 
 ---
